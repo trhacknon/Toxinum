@@ -22,7 +22,7 @@
 </div>
 
 ## Download
-<a href="https://www.github.com/ITZAKX21/TOXIC-WORLD"><img src="https://img.shields.io/badge/DOWNLOAD- V1.0-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/DOWNLOAD- V1.0-dark?style=for-the-badge" alt="download app" ></a>
 
 
 ## Developers
