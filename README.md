@@ -5,7 +5,7 @@
 </div>
 
 
-## About TOXIC-WORLD app
+## Features
   * SMS BOMBER
   * EMAIL BOMBER
   * TEMP MAIL
