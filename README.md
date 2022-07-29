@@ -4,9 +4,7 @@
 <img style="height: 50%;width: 50%;" src="assets/logo.png" alt="logo">
 </div>
 
-````
-Donate your blood and save life.
-````
+
 ## About TOXIC-WORLD app
   * SMS BOMBER
   * EMAIL BOMBER
