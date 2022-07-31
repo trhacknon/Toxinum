@@ -22,13 +22,17 @@
 </div>
 
 ## Download
-<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/DOWNLOAD-V2.1-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/DOWNLOAD-V2.2-dark?style=for-the-badge" alt="download app" ></a>
 
 
 ## Developers
   * <a href="https://www.facebook.com/AKXVAU">Mohammad Alamin</a>
   * <a href="https://www.facebook.com/toxicvirus21">TOXIC-VIRUS</a><br>
   
+## Tutorial
+
+<a href="https://youtu.be/LzLXG81R-RM"><img src="https://img.shields.io/youtube/views/LzLXG81R-RM?color=blue&label=WATCH&logo=youtube&logoColor=red&style=for-the-badge" alt="download app" ></a>
+
 ## For any help
 
 <a href="https://www.facebook.com/toxicvirus21"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb" ></a>
