@@ -1,0 +1,9 @@
+{
+  "update": {
+    "app": "true",
+    "link": "https://github.com/ITZAKX21/toxic-world",
+    "msg": "HEHE",
+    "toast": "NAI",
+    "version": "1.0"
+  }
+}
