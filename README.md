@@ -1,3 +1,0 @@
-# TOXIC-WORLD
-
-# COMING SOON !!
