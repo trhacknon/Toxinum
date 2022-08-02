@@ -1,4 +1,4 @@
-<img src="assets/demo.png" alt="Demo">
+
 <h2>TOXIC-WORLD</h2>
 <div align="center">
 <img style="height: 50%;width: 50%;" src="assets/logo.png" alt="logo">
@@ -6,11 +6,13 @@
 
 
 ## Features
-  * SMS BOMBER
-  * EMAIL BOMBER
-  * TEMP MAIL
-  * URL SHORTENER
-  * ROBI CIRCLE
+
+
+* SMS BOMBER
+* EMAIL BOMBER
+* URL SHORTENER
+* CIRCLE NEW API ADDED
+
 
 <div align="center">
 <a href="https://www.github.com/ITZAKX21"><img src="https://img.shields.io/github/followers/itzakx21?logo=GITHUB&style=for-the-badge" alt="version" ></a>
@@ -22,7 +24,7 @@
 </div>
 
 ## Download
-<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/DOWNLOAD-V2.3-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/DOWNLOAD-V1.0-dark?style=for-the-badge" alt="download app" ></a>
 
 
 ## Developers
