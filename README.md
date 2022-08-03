@@ -1,4 +1,4 @@
-<img src="assets/demo.png" alt="logo">
+<img src="assets/demo_v1.2.png" alt="logo">
 </div>
 <h2>TOXIC-WORLD</h2>
 <div align="center">
