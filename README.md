@@ -1,4 +1,5 @@
-
+<img src="assets/demo.png" alt="logo">
+</div>
 <h2>TOXIC-WORLD</h2>
 <div align="center">
 <img style="height: 50%;width: 50%;" src="assets/logo.png" alt="logo">
