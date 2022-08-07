@@ -33,18 +33,13 @@
 <a href="https://github.com/ITZAKX21/blood-box/blob/main/LICENSE"><img src="https://img.shields.io/github/license/itzakx21/TOXIC-WORLD?logo=license&style=for-the-badge" alt="total watchers" ></a>
 </div>
 
-## Download
-### OLD
-
-<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_2.apk?alt=media&token=95c69fd9-9f98-43ad-ab6a-48a59cb004a0"><img src="https://img.shields.io/badge/DOWNLOAD-V1.2-dark?style=for-the-badge" alt="download app" ></a>
-
-### LETEST
+# DOWNLOAD APP 
 
 <a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/DOWNLOAD-V1.3-dark?style=for-the-badge" alt="download app" ></a>
 
 - DOWNLOAD FROM FIREBASE
 
-<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_3.apk?alt=media&token=b7fea34f-14a7-4d48-906a-7f8755349f3f"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.3&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
+<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_4.apk?alt=media&token=e81ebd57-32ec-486e-bde0-d46d4933f6cf"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.3&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
 
 
 
