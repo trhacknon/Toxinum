@@ -1,6 +1,8 @@
 <img src="assets/demo3.jpg" alt="logo">
 </div>
-<h2>TOXIC-WORLD</h2>
+
+# **TOXIC-WORLD**
+
 <div align="center">
 <img style="height: 50%;width: 50%;" src="assets/logo.png" alt="logo">
 </div>
@@ -22,7 +24,6 @@
 - PASSWORD RESET MAIL NO SPAM
 - CUSTOM DOMAIN ADDED ON FIREBASE
 
-
 <div align="center">
 <a href="https://www.github.com/ITZAKX21"><img src="https://img.shields.io/github/followers/itzakx21?logo=GITHUB&style=for-the-badge" alt="version" ></a>
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/badge/Version-V1.2-dark?style=for-the-badge" alt="version" ></a>
@@ -33,11 +34,11 @@
 </div>
 
 ## Download
-# OLD
+### OLD
 
 <a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_2.apk?alt=media&token=95c69fd9-9f98-43ad-ab6a-48a59cb004a0"><img src="https://img.shields.io/badge/DOWNLOAD-V1.2-dark?style=for-the-badge" alt="download app" ></a>
 
-# LETEST
+### LETEST
 
 <a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/DOWNLOAD-V1.3-dark?style=for-the-badge" alt="download app" ></a>
 
