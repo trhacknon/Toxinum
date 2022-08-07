@@ -8,11 +8,12 @@
 
 ## Features
 
-
+* NEW UI
 * SMS BOMBER
 * EMAIL BOMBER
 * URL SHORTENER
 * CIRCLE NEW API ADDED
+* PASSWORD RESET
 
 
 <div align="center">
