@@ -26,7 +26,7 @@
 
 <div align="center">
 <a href="https://www.github.com/ITZAKX21"><img src="https://img.shields.io/github/followers/itzakx21?logo=GITHUB&style=for-the-badge" alt="version" ></a>
-<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/Version-V1.4-dark?style=for-the-badge" alt="version" ></a>
+<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest_V1.5"><img src="https://img.shields.io/badge/Version-V1.4-dark?style=for-the-badge" alt="version" ></a>
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/github/stars/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
 <a href="https://github.com/ITZAKX21/blood-box/fork"><img src="https://img.shields.io/github/forks/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/github/watchers/itzakx21/TOXIC-WORLD?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
@@ -35,11 +35,11 @@
 
 # DOWNLOAD APP 
 
-<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest"><img src="https://img.shields.io/badge/DOWNLOAD-V1.4-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest_V1.5"><img src="https://img.shields.io/badge/DOWNLOAD-V1.4-dark?style=for-the-badge" alt="download app" ></a>
 
 - DOWNLOAD FROM FIREBASE
 
-<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_4.apk?alt=media&token=e81ebd57-32ec-486e-bde0-d46d4933f6cf"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.4&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
+<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_5.apk?alt=media&token=5bc0c34e-34f1-4f93-9b7b-2271227d262c"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.4&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
 
 
 
