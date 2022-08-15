@@ -43,7 +43,7 @@
 
 - GET ALL UPDATESON YOUR EMAIL
 
-<a href="https://appdistribution.firebase.dev/i/64fe212889a9c235"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.5&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=SIGNUP NOW" alt="download app" ></a>
+<a href="https://appdistribution.firebase.dev/i/64fe212889a9c235"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=NOW&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=SIGNUP" alt="download app" ></a>
 
 
 ## Developers
