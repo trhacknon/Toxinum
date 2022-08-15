@@ -41,6 +41,9 @@
 
 <a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_5.apk?alt=media&token=5bc0c34e-34f1-4f93-9b7b-2271227d262c"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.5&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
 
+- GET ALL UPDATESON YOUREMAIL
+
+<a href="https://appdistribution.firebase.dev/i/64fe212889a9c235"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.5&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=SIGNUP NOW" alt="download app" ></a>
 
 
 ## Developers
