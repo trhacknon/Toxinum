@@ -47,7 +47,7 @@
 
 
 ## Developers
-  * <a href="https://www.facebook.com/AKXVAU">Mohammad Alamin</a>
+  * <a href="https://www.facebook.com/AKXVAI">Mohammad Alamin</a>
   * <a href="https://www.facebook.com/toxicvirus21">TOXIC-VIRUS</a><br>
 
 ### [✓] ALL BUG FIXED
