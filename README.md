@@ -54,7 +54,7 @@
 
 ## Tutorial
 
-<a href="https://youtu.be/AJ1DDKGQYiQ"><img src="https://img.shields.io/youtube/views/AJ1DDKGQYiQ?color=blue&label=WATCH&logo=youtube&logoColor=red&style=for-the-badge" alt="download app" ></a>
+<a href="https://youtube.com/AKXVAU"><img src="https://img.shields.io/youtube/views/AJ1DDKGQYiQ?color=blue&label=WATCH&logo=youtube&logoColor=red&style=for-the-badge" alt="download app" ></a>
 
 ## For any help
 
