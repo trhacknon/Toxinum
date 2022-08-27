@@ -39,7 +39,7 @@
 
 - DOWNLOAD FROM FIREBASE
 
-<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest.apk?alt=media&token=b9c82d0b-4ddf-41d1-aff4-6c0452f52315"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.5&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
+<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_6.apk?alt=media&token=595dddf0-3b41-4ab2-afcd-b681912e614c"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.5&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
 
 - GET ALL UPDATESON YOUR EMAIL
 
