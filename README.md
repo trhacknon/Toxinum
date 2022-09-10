@@ -28,7 +28,7 @@
 
 <div align="center">
 <a href="https://www.github.com/ITZAKX21"><img src="https://img.shields.io/github/followers/itzakx21?logo=GITHUB&style=for-the-badge" alt="version" ></a>
-<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest_V1.5"><img src="https://img.shields.io/badge/Version-V1.7-dark?style=for-the-badge" alt="version" ></a>
+<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest_V1.9"><img src="https://img.shields.io/badge/Version-V1.9-dark?style=for-the-badge" alt="version" ></a>
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/github/stars/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
 <a href="https://github.com/ITZAKX21/blood-box/fork"><img src="https://img.shields.io/github/forks/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
 <a href="https://www.github.com/ITZAKX21/blood-box"><img src="https://img.shields.io/github/watchers/itzakx21/TOXIC-WORLD?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
@@ -45,7 +45,7 @@
 
 - DOWNLOAD FROM TELEGRAM 
 
-<a href="https://t.me/official_toxicworld"><img src="https://img.shields.io/static/v1.7?style=for-the-badge&massage=V1.9&color=000000&logo=Telegram&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
+<a href="https://t.me/official_toxicworld"><img src="https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white" alt="download app" ></a>
 
 - GET ALL UPDATESON YOUR EMAIL
 
