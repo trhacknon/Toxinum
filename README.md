@@ -23,6 +23,8 @@
 - VERIFICATION MAIL NO SPAM
 - PASSWORD RESET MAIL NO SPAM
 - CUSTOM DOMAIN ADDED ON FIREBASE
+- APPROVAL TURNED ON
+- SAFEZONE ADDED
 
 <div align="center">
 <a href="https://www.github.com/ITZAKX21"><img src="https://img.shields.io/github/followers/itzakx21?logo=GITHUB&style=for-the-badge" alt="version" ></a>
@@ -35,11 +37,15 @@
 
 # DOWNLOAD APP 
 
-<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letest_V1.7"><img src="https://img.shields.io/badge/DOWNLOAD-V1.7-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://github.com/ITZAKX21/TOXIC-WORLD/releases/tag/Letsst_1.9"><img src="https://img.shields.io/badge/DOWNLOAD-V1.9-dark?style=for-the-badge" alt="download app" ></a>
 
 - DOWNLOAD FROM FIREBASE
 
-<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_7.apk?alt=media&token=3fe44d98-79e0-4de6-a5c3-2bf4a166bf16"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.7&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
+<a href="https://firebasestorage.googleapis.com/v0/b/twbomber008.appspot.com/o/app%2FLetest_V1_9.apk?alt=media&token=17417654-482f-4669-aa2b-34bb4b7dd618"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.9&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
+
+- DOWNLOAD FROM TELEGRAM 
+
+<a href="https://t.me/official_toxicworld"><img src="https://img.shields.io/static/v1.7?style=for-the-badge&massage=V1.9&color=000000&logo=Telegram&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
 
 - GET ALL UPDATESON YOUR EMAIL
 
