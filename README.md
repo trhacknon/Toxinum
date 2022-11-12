@@ -1,7 +1,7 @@
 <img src="assets/demo3.jpg" alt="logo">
 </div>
 
-# **TOXIC-WORLD**
+## **TOXIC-WORLD**
 
 <div align="center">
 <img style="height: 50%;width: 50%;" src="assets/logo.png" alt="logo">
