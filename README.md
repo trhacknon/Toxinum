@@ -34,7 +34,7 @@
 
 - DOWNLOAD FROM FIREBASE
 
-<a href="https://firebasestorage.googleapis.com/v0/b/toxinumbd.appspot.com/o/Toxinum._1.0.apk?alt=media&token=0716da7c-b556-48eb-ae1e-8fd47cc218f7"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.0&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
+<a href="https://firebasestorage.googleapis.com/v0/b/toxinumbd.appspot.com/o/Toxinum._1.1.apk?alt=media&token=d8423fb0-2d2b-4bb0-9230-d7cfcbfecfff"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.0&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
 
 - DOWNLOAD FROM TELEGRAM 
 
