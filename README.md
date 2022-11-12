@@ -30,17 +30,17 @@
 
 # DOWNLOAD APP 
 
-<a href="https://github.com/ITSN0B1T4/Toxinum/releases/tag/Toxinum_V1.0"><img src="https://img.shields.io/badge/DOWNLOAD-V1.9-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://github.com/ITSN0B1T4/Toxinum/releases/tag/Toxinum_V1.0"><img src="https://img.shields.io/badge/DOWNLOAD-V1.0-dark?style=for-the-badge" alt="download app" ></a>
 
 - DOWNLOAD FROM FIREBASE
 
-<a href="https://firebasestorage.googleapis.com/v0/b/toxinumbd.appspot.com/o/Toxinum._1.0.apk?alt=media&token=0716da7c-b556-48eb-ae1e-8fd47cc218f7"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.9&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
+<a href="https://firebasestorage.googleapis.com/v0/b/toxinumbd.appspot.com/o/Toxinum._1.0.apk?alt=media&token=0716da7c-b556-48eb-ae1e-8fd47cc218f7"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=V1.0&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=DOWNLOAD%20NOW" alt="download app" ></a>
 
 - DOWNLOAD FROM TELEGRAM 
 
 <a href="https://t.me/toxinum"><img src="https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white" alt="download app" ></a>
 
-- GET ALL UPDATESON YOUR EMAIL
+- GET ALL UPDATES ON YOUR EMAIL
 
 <a href="https://appdistribution.firebase.dev/i/395931dd594e8b3e"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=NOW&color=000000&logo=FIREBASE&logoColor=FFFFFF&label=SIGNUP" alt="download app" ></a>
 
@@ -48,8 +48,6 @@
 ## Developers
   * <a href="https://www.facebook.com/ITSN0B1T4">Mohammad Alamin</a>
   * <a href="https://www.facebook.com/Toxinum">Toxinum.</a><br>
-
-### [✓] ALL BUG FIXED
 
 ## Tutorial
 
@@ -59,6 +57,7 @@
 
 <a href="https://www.facebook.com/toxinum"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb" ></a>
 <a href="https://t.me/toxinum"><img src="https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white" alt="fb" ></a><a href="mailto: dev.akxvau@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" ></a>
-
+<br>
+<a href="https://m.me/j/AbY74FqeHc5s7Q_D/">*Messenger Adda Grpup</a>
 
 ### Thanks. Don't forget to give this project star and follow our github.
