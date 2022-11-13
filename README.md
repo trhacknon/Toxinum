@@ -20,17 +20,17 @@
 - USER DATA SECURITY
 
 <div align="center">
-<a href="https://www.github.com/itsn0b1t4"><img src="https://img.shields.io/github/followers/itsn0b1t4?logo=GITHUB&style=for-the-badge" alt="version" ></a>
-<a href="https://github.com/ITSN0B1T4/Toxinum/releases/tag/Toxinum_V1.0"><img src="https://img.shields.io/badge/Version-V1.9-dark?style=for-the-badge" alt="version" ></a>
-<a href="https://www.github.com/itsn0b1t4/toxinum/"><img src="https://img.shields.io/github/stars/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
-<a href="https://github.com/itsn0b1t4/toxinum/fork"><img src="https://img.shields.io/github/forks/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
-<a href="https://www.github.com/itsn0b1t4/toxinum/"><img src="https://img.shields.io/github/watchers/itzakx21/TOXIC-WORLD?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
-<a href="https://github.com/itsn0b1t4/toxinum//blob/main/LICENSE"><img src="https://img.shields.io/github/license/itzakx21/TOXIC-WORLD?logo=license&style=for-the-badge" alt="total watchers" ></a>
+<a href="https://www.github.com/itsn0b1t4"><img src="https://img.shields.io/github/followers/trhacknon?logo=GITHUB&style=for-the-badge" alt="version" ></a>
+<a href="https://github.com/trhacknon/Toxinum/releases/tag/Toxinum_V1.0"><img src="https://img.shields.io/badge/Version-V1.9-dark?style=for-the-badge" alt="version" ></a>
+<a href="https://www.github.com/trhacknon/toxinum/"><img src="https://img.shields.io/github/stars/trhacknon/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
+<a href="https://github.com/trhacknon/toxinum/fork"><img src="https://img.shields.io/github/forks/trhacknon/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
+<a href="https://www.github.com/trhacknon/toxinum/"><img src="https://img.shields.io/github/watchers/trhacknon/TOXIC-WORLD?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
+<a href="https://github.com/trhacknon/toxinum//blob/main/LICENSE"><img src="https://img.shields.io/github/license/trhacknon/TOXIC-WORLD?logo=license&style=for-the-badge" alt="total watchers" ></a>
 </div>
 
 # DOWNLOAD APP 
 
-<a href="https://github.com/ITSN0B1T4/Toxinum/releases/tag/Toxinum_V1.0"><img src="https://img.shields.io/badge/DOWNLOAD-V1.0-dark?style=for-the-badge" alt="download app" ></a>
+<a href="https://github.com/trhacknon/Toxinum/releases/download/Toxinum_V1.1/Toxinum._1.1.apk"><img src="https://img.shields.io/badge/DOWNLOAD-V1.0-dark?style=for-the-badge" alt="download app" ></a>
 
 - DOWNLOAD FROM FIREBASE
 
@@ -55,9 +55,9 @@
 
 ## For any help
 
-<a href="https://www.facebook.com/toxinum"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb" ></a>
-<a href="https://t.me/toxinum"><img src="https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white" alt="fb" ></a><a href="mailto: dev.akxvau@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" ></a>
+<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb" ></a>
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white" alt="fb" ></a><a href="mailto: trhacknon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" ></a>
 <br>
-<a href="https://m.me/j/AbY74FqeHc5s7Q_D/">*Messenger Adda Grpup</a>
+<a href="https://m.me/j//">*Messenger </a>
 
 ### Thanks. Don't forget to give this project star and follow our github.
